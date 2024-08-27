@@ -73,7 +73,10 @@ Partendo dal più semplice analizziamo la regex:
 
 ## Info sull'autore
 
-Nome: Urselli Cosimo
-Email: urselli.workmail@gmail.com
-Hobbies: Cucina, Videogame, Romanzi fantasy/gialli
-Occupazione: Programmatore
+- **Nome**: Urselli Cosimo
+- **Email**: urselli.workmail@gmail.com
+- **Hobbies**:
+  - Cucina
+  - Videogame
+  - Romanzi fantasy/gialli
+- **Occupazione**: Programmatore
